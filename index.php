@@ -1,4 +1,12 @@
 
+<?php
+/*
+Autor : Michel Deziderio e Silva
+Descrção : Aqui está uma ferramenta extremamente forte e com vários fins de uso.
+Autor URL : www.micheldeziderio.com.br
+*/
+?>
+
 <?php include('includes/api_conexao.php'); ?>
 <!DOCTYPE html>
 <html lang="pt">
