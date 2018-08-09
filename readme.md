@@ -1,5 +1,7 @@
 Autor : Michel Deziderio e Silva
+
 Descrção : Aqui está uma ferramenta extremamente forte e com vários fins de uso.
+
 Autor URL : www.micheldeziderio.com.br
 
 Olá você que está lendo este artigo.
@@ -33,7 +35,7 @@ https://www.instagram.com/developer/
 
 2º Click em registar aplicação, para registar é bem simples, basta clicar em Register You Apllication e preencher o formulário.
 
-http://micheldeziderio.com.br/wp-content/uploads/2018/07/instagram-resister-application.png
+![alt text](http://micheldeziderio.com.br/wp-content/uploads/2018/07/instagram-resister-application.png)
 
 3º Você tem que criar um token para que o nosso API possa acessar suas fotos.
 CLick nesse link:
@@ -43,11 +45,11 @@ http://instagram.pixelunion.net
 
 Abaixo está a conexão com o Json da API do instagram.
 
-http://micheldeziderio.com.br/wp-content/uploads/2018/07/conexao-json.png
+![alt text](http://micheldeziderio.com.br/wp-content/uploads/2018/07/conexao-json.png)
 
 Criando o loop e imprimindo a galeria e modal com Bootstrap.
 
-http://micheldeziderio.com.br/wp-content/uploads/2018/07/codigo-api.png
+![alt text](http://micheldeziderio.com.br/wp-content/uploads/2018/07/codigo-api.png)
 
 Ele vai ficar como no modelo de exemplo do link abaixo.
 
